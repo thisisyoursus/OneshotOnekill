@@ -1,8 +1,11 @@
 WeaponData
 {
+	MP_BASE
+	{
 		"ammo_clip_size"   								"1"
 		"damage_near_value"   							"300"
 		"damage_far_value"								"300"
+	}
 	Mods
 	{
 		extended_ammo
